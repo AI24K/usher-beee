@@ -1,5 +1,5 @@
 {
-	"name": "usher-referrals",
+	"name": "usher-beee",
 	"version": "0.1.0",
 	"description": "Usher Referrals Core Repo -- Referral Marketing for PSCs",
 	"repository": "git@gitlab.com:usherlabs/usher-referrals.git",
@@ -32,5 +32,7 @@
 		"prettier": "^2.5.1",
 		"turbo": "^1.2.5"
 	},
-	"dependencies": {}
+	"dependencies": {
+		"pnpm": "^9.15.4"
+	}
 }
